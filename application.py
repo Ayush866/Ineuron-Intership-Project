@@ -40,4 +40,4 @@ def predict_datapoint():
         return render_template('index.html', results=results)
 
 if __name__=="__main__":
-    app.run(debug=True)
+    application.run(debug=True)
