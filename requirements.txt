@@ -14,7 +14,6 @@ joblib
 kiwisolver
 MarkupSafe
 matplotlib
--e git+https://github.com/Ayush866/Ineuron-Intership-Project.git@c438bfa3e68ef3a33148934851407fb72877fd1b#egg=mlproject
 numpy
 packaging
 pandas
