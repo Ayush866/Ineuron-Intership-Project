@@ -30,3 +30,4 @@ Werkzeug
 wincertstore
 zipp
 Gunicorn
+-e .

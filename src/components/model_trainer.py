@@ -17,7 +17,7 @@ from src.utils import save_object, evaluate_models
 @dataclass
 class ModelTrainerConfig:
     trained_model_file_path = os.path.join("artifacts", "model.pkl")
-    logging.info(f"File path:")
+
 
 class ModelTrainer:
     def __init__(self):
@@ -25,7 +25,7 @@ class ModelTrainer:
 
     def initiate_model_trainer(self, target_train_array,target_test_array,input_feature_train_arr,input_feature_test_arr):
         try:
-            logging.info("Split training and test input data")
+            logging.info("Split training and test input datafsfsfsfsfsfsfssfsfsfsfsfsfsfsfsf")
             X_train, y_train, X_test, y_test = (
                 input_feature_train_arr,
                 target_train_array,
