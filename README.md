@@ -1,33 +1,40 @@
-Dataset Description
+# Adult Censes Income Predection
+
+The Adult dataset is from the Census Bureau and the task is to predict whether a given adult makes more than $50,000 a year based attributes such as education, hours of work per week, etc..
 
 
->50K, <=50K.
+## Documentation
 
-age: continuous.
 
-workclass: Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay, Never-worked.
+The dataset provides 14 input variables that are a mixture of categorical, ordinal, and numerical data types. The complete list of variables is as follows:
 
-fnlwgt: continuous.
+* Age.
+* Workclass.
+* Final Weight.
+* Education.
+* Education Number of Years.
+* Marital-status.
+* Occupation.
+* Relationship.
+* Race.
+* Sex.
+* Capital-gain.
+* Capital-loss.
+* Hours-per-week.
+* Native-country.
 
-education: Bachelors, Some-college, 11th, HS-grad, Prof-school, Assoc-acdm, Assoc-voc, 9th, 7th-8th, 12th, Masters, 1st-4th, 10th, Doctorate, 5th-6th, Preschool.
+The dataset contains missing values that are marked with a question mark character (?).
 
-education-num: continuous.
+There are a total of 48,842 rows of data, and 3,620 with missing values, leaving 45,222 complete rows
 
-marital-status: Married-civ-spouse, Divorced, Never-married, Separated, Widowed, Married-spouse-absent, Married-AF-spouse.
+## Screenshots
 
-occupation: Tech-support, Craft-repair, Other-service, Sales, Exec-managerial, Prof-specialty, Handlers-cleaners, Machine-op-inspct, Adm-clerical, Farming-fishing,
-Transport-moving, Priv-house-serv, Protective-serv, Armed-Forces.
-relationship: Wife, Own-child, Husband, Not-in-family, Other-relative, Unmarried.
+![Project Structure](https://github.com/Ayush866/Ineuron-Intership-Project/blob/main/screenshot/Desktop%20Screenshot%202023.04.06%20-%2015.09.03.77.png?raw=true)
 
-race: White, Asian-Pac-Islander, Amer-Indian-Eskimo, Other, Black.
+![Interface](https://github.com/Ayush866/Ineuron-Intership-Project/blob/main/screenshot/Desktop%20Screenshot%202023.04.06%20-%2023.44.35.29.png?raw=true)
 
-sex: Female, Male
-.
-capital-gain: continuous.
 
-capital-loss: continuous.
+## Demo
 
-hours-per-week: continuous.
-
-native-country: United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, Holand-Netherlands.
+Viedo link - https://drive.google.com/file/d/1DDdCY2UwlpfhsONfzh65FD9lEgI5O8d2/view?usp=share_link
 
