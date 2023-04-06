@@ -30,14 +30,19 @@ There are a total of 48,842 rows of data, and 3,620 with missing values, leaving
   
 **LANGUAGES**
       -Python
+      
       -HTML
       
       
 **LIBRARIES**
       -Numpy
+      
       -Pandas
+      
       -Scikit-learn
+      
       -Matplotlib
+      
       -Seaborn
       
       
@@ -47,7 +52,9 @@ There are a total of 48,842 rows of data, and 3,620 with missing values, leaving
       
 **DEVELOPER TOOLS**
       -Vs code
+      
       -PyCharm
+      
       -Jupyter-Notebook
 
 ## Screenshots
