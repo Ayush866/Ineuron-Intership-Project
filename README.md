@@ -29,6 +29,7 @@ There are a total of 48,842 rows of data, and 3,620 with missing values, leaving
 
   
 **LANGUAGES**
+
       -Python
       
       -HTML
@@ -48,10 +49,12 @@ There are a total of 48,842 rows of data, and 3,620 with missing values, leaving
       
       
 **FRAME WORK**
+
       -Flask
       
       
 **DEVELOPER TOOLS**
+
       -Vs code
       
       -PyCharm
