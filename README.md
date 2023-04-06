@@ -28,7 +28,21 @@ The dataset contains missing values that are marked with a question mark charact
 There are a total of 48,842 rows of data, and 3,620 with missing values, leaving 45,222 complete rows
 
   
-**Flask , scikit-learn , Pandas , Numpy , Matplotlib**
+**LANGUAGES**
+      -Python
+      -HTML
+**LIBRARIES**
+      -Numpy
+      -Pandas
+      -Scikit-learn
+      -Matplotlib
+      -Seaborn
+**FRAME WORK**
+      -Flask
+**DEVELOPER TOOLS**
+      -Vs code
+      -PyCharm
+      -Jupyter-Notebook
 
 ## Screenshots
 
