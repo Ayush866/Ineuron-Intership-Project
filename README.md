@@ -27,6 +27,9 @@ The dataset contains missing values that are marked with a question mark charact
 
 There are a total of 48,842 rows of data, and 3,620 with missing values, leaving 45,222 complete rows
 
+  
+**Flask , scikit-learn , Pandas , Numpy , Matplotlib**
+
 ## Screenshots
 
 ![Project Structure](https://github.com/Ayush866/Ineuron-Intership-Project/blob/main/screenshot/Desktop%20Screenshot%202023.04.06%20-%2015.09.03.77.png?raw=true)
@@ -37,4 +40,3 @@ There are a total of 48,842 rows of data, and 3,620 with missing values, leaving
 ## Demo
 
 Viedo link - https://drive.google.com/file/d/1DDdCY2UwlpfhsONfzh65FD9lEgI5O8d2/view?usp=share_link
-
